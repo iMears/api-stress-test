@@ -1,0 +1,23 @@
+{
+  "name": "api-stress-test",
+  "version": "1.0.0",
+  "description": "Simulate high traffic to test your stress tests your API endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMears/api-stress-test.git"
+  },
+  "author": "Maxwell Mears",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iMears/api-stress-test/issues"
+  },
+  "homepage": "https://github.com/iMears/api-stress-test#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "request-promise": "^4.2.1"
+  }
+}
